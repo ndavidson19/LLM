@@ -37,7 +37,7 @@
 - Utilize Docker containers for the inference build.
 - Deployment will be made to Kubernetes clusters.
 
-### 6. Resources <a name="resources"></a/>
+### 6. Resources <a name="resources"></a>
 - https://github.com/antimetal/awsdocsgpt
 - https://github.com/ShreyaR/guardrails
 - https://github.com/facebookresearch/llama-recipes#multiple-gpus-one-node
