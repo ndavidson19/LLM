@@ -25,6 +25,7 @@
 ### 3. Open Source Model / Finetuning <a name="open-source-model--finetuning"></a>
 - Use Open Source Model. (Ideally Llama-7B-Chat-Q4
 - Finetune the model using LoRa to match Cisco Docs and Vocabulary.
+- LangChain can be used to bridge the workflow
 
 ### 4. Vector DB for Semantic Search <a name="vector-db-for-semantic-search"></a>
 - Incorporate Vector DB.
